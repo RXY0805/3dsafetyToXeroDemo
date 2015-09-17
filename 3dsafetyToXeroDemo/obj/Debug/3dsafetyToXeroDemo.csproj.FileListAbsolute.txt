@@ -1,0 +1,15 @@
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\bin\Debug\3dsafetyToXeroDemo.exe.config
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\bin\Debug\3dsafetyToXeroDemo.exe
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\bin\Debug\3dsafetyToXeroDemo.pdb
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\obj\Debug\_3dsafetyToXeroDemo.Form1.resources
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\obj\Debug\_3dsafetyToXeroDemo.Properties.Resources.resources
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\obj\Debug\3dsafetyToXeroDemo.csproj.GenerateResource.Cache
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\obj\Debug\3dsafetyToXeroDemo.exe
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\obj\Debug\3dsafetyToXeroDemo.pdb
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\bin\Debug\Xero.Api.dll
+c:\users\dev\documents\visual studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\bin\Debug\Xero.Api.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\obj\Debug\3dsafetyToXeroDemo.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\bin\Debug\3dsafetyToXeroDemo.exe.manifest
+C:\Users\dev\Documents\Visual Studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\bin\Debug\3dsafetyToXeroDemo.application
+C:\Users\dev\Documents\Visual Studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\obj\Debug\3dsafetyToXeroDemo.exe.manifest
+C:\Users\dev\Documents\Visual Studio 2015\Projects\3dsafetyToXeroDemo\3dsafetyToXeroDemo\obj\Debug\3dsafetyToXeroDemo.application

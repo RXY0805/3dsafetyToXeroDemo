@@ -1,0 +1,5 @@
+C:\Users\dev\Desktop\wade\xero\sample\Xero-Net-master\Xero-Net-master\Xero.Api\bin\Debug\Xero.Api.dll
+C:\Users\dev\Desktop\wade\xero\sample\Xero-Net-master\Xero-Net-master\Xero.Api\bin\Debug\Xero.Api.pdb
+C:\Users\dev\Desktop\wade\xero\sample\Xero-Net-master\Xero-Net-master\Xero.Api\obj\Debug\Xero.Api.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\wade\xero\sample\Xero-Net-master\Xero-Net-master\Xero.Api\obj\Debug\Xero.Api.dll
+C:\Users\dev\Desktop\wade\xero\sample\Xero-Net-master\Xero-Net-master\Xero.Api\obj\Debug\Xero.Api.pdb
